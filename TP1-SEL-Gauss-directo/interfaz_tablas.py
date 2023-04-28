@@ -1,3 +1,5 @@
+import pandas as pd
+
 # RECIBE: 
 # - EL TAMAÑO DE LA TABLA COMO UNA DUPLA (f,c)
 # - UN DICCIONARIO DE LA FORMA {nombre_columna: lista_columna} (OPCIONAL, SINO SE CREA UNA TABLA DE CEROS)
