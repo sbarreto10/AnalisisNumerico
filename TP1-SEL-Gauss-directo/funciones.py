@@ -1,3 +1,8 @@
+import pandas as pd
+
+
+
+
 # RECIBE DOS LISTAS Y DEVUELVE SU PRODUCTO ESCALAR
 
 def producto_escalar(x,y):
